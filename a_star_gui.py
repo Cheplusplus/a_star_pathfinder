@@ -1,6 +1,6 @@
 import pygame as pg
 import a_star_pathfinding
-
+import sys
 
 # ----------------Init / Fonts----------------
 pg.init()
